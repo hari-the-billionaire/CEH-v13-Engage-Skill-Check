@@ -13,8 +13,8 @@ A compromised Android device is suspected of containing malicious applications. 
 - cd Phonesploit
 - python phonesploit.py
 - type 1 and enter ip address (192.168.10.121)
-- type n 2 times and press 36, then press 2 and give some path
-- now type crc32 path to apk
+- type n 2 times and press 36, then press1 -> press 2(com.cxinventor.com) and give some path to save apk
+- now type crc32 path to apk 
 
 Answer: 53ac614c
 
